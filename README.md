@@ -1,5 +1,6 @@
 ## Endpoints:
 
+
 ## BookController:
 
 * 'api/books/list' - wyświetlanie książek
