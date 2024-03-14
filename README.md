@@ -1,4 +1,4 @@
-##Zadanie: Proste API do wypożyczania książek
+## Zadanie: Proste API do wypożyczania książek
 Celem tego zadania jest zaprojektowanie prostego API do wypożyczania książek. Nie ma konieczności implementowania funkcjonalności związanych z logowaniem czy rejestracją użytkowników.
 W bazie danych znajduje się 60 książek, których dane można wygenerować za pomocą narzędzia Artisan. Dane te mogą być losowe (Lorem Ipsum).
 Wykorzystaj wszystkie znane Ci protokoły HTTP.
